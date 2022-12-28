@@ -70,6 +70,5 @@ Untuk memasukan variabel kedalam string, tambahkan kurung kurawa {} untuk menemp
 ![image2.png](sikirinsot/ss2.png)
 
 
-Duduk Kesepian Tanpa Kekasih
-Cukup Sekian dan Terima Kasih
-:)
+## Duduk Kesepian Tanpa Kekasih
+## Cukup Sekian dan Terima Kasih
