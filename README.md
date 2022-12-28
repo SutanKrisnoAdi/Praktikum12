@@ -22,23 +22,23 @@ txt = 'Hello World'
 
  Penjelasan Latihan 1
  - Untuk menghitung jumlah karakter, gunakan fungsi len().
-        print(len(txt))
+    print(len(txt))
 
  - Cara mengambil satu karakter pada string yaitu dengan menggunakan kurung siku [] dan deklarasi nomor di dalam kurung siku dengan urutan ARRAY dan menggunakan titik dua lalu masukan nomor ARRAY selanjutnya. Untuk mengambil karakter terakhir, gunakan *index [-1]**. Sedangkan untuk mengambil karakter *index ke-2 sampai ke-4, gunakan index [2:5].
-        print(txt[-1])
-        print(txt[2:5])
+    print(txt[-1])
+    print(txt[2:5])
 
  - Jika ingin menghilangkan spasi pada string, gunakan method replace(). Method replace() mengganti semua kemunculan string lama dengan yang baru atau paling banyak kemunculan.
  - Di dalam method replace, kita dapat menggunakan 2 cara, yang pertama bisa menggunakan (txt.replace(" ", "")) dan kedua dengan cara (txt.replace(txt[5], "")).
-        print(txt.replace(" ", " "))
+    print(txt.replace(" ", " "))
 
  - Untuk mengubah text menjadi huruf besar, gunakan method upper(). Sedangkan jika ingin mengubah text menjadi huruf kecil, menggunakan method lower().
-        print(txt.upper())
-        print(txt.lower())
+    print(txt.upper())
+    print(txt.lower())
 
  - Untuk mengganti karakter 'H' menjadi karakter 'J', gunakan method replace().
-            print(txt.replace("h", "J"))
-            print()
+    print(txt.replace("h", "J"))
+    print()
 
 ## Output Latihan 1
 
