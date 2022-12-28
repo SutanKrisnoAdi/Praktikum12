@@ -43,9 +43,9 @@ txt = 'Hello World'
         print(txt.lower())
 
  - Untuk mengganti karakter 'H' menjadi karakter 'J', gunakan method replace().
-        # Mengganti karakter H menjadi karakter J
-        print(txt.replace("h", "J"))
-        print()
+            # Mengganti karakter H menjadi karakter J
+            print(txt.replace("h", "J"))
+            print()
 
 ## Output Latihan 1
 
