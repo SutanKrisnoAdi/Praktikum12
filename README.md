@@ -1,7 +1,9 @@
 # Praktikum12
 
 Nama    : Sutan Krisno Adi
+
 NIM     : 312210056
+
 Kelas   : TI.22.C1
 
 ## Python String
